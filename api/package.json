@@ -1,0 +1,15 @@
+{
+  "name": "docx-generator",
+  "version": "1.0.0",
+  "description": "Custom DOCX document generator API for academic paper analysis reports",
+  "main": "api/generate-docx.js",
+  "type": "module",
+  "dependencies": {
+    "jszip": "^3.10.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "author": "Nathalie Salles",
+  "license": "MIT"
+}
