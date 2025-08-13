@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/generate-docx.js": {
+      "maxDuration": 30
+    }
+  }
+}
