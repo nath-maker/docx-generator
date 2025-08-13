@@ -16,6 +16,7 @@ export default async function handler(req, res) {
 
   try {
     const { data } = req.body;
+    console.log('Received data:', JSON.stringify(data, null, 2));
     
     // Create a new ZIP file
     const zip = new JSZip();
