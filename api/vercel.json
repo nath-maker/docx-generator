@@ -1,6 +1,6 @@
 {
   "functions": {
-    "api/generate-docx.js": {
+    "api/generate-pdf.js": {
       "maxDuration": 30
     }
   }
